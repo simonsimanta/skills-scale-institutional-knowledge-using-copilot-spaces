@@ -31,10 +31,14 @@ OctoAcme follows a lightweight but structured project lifecycle:
 | **Project Manager (PM)** | Coordinates delivery, manages schedule, risks, dependencies, and communications |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes backlog, measures success |
 | **Developers** | Design and implement shippable increments with tests and documentation |
-| **QA / Testing** | Validates quality and acceptance criteria |
-| **Stakeholders** | Provide inputs, approvals, and strategic direction |
+| **Engineering Manager / Tech Lead** | Owns architecture decisions, technical standards, and engineering capacity |
+| **UX/UI Designer** | Designs and validates user experience flows; ensures usability and accessibility |
+| **QA / Test Lead** | Owns test strategy and quality sign-off; ensures releases meet the quality bar |
+| **Data Analyst** | Defines KPIs, tracks metrics, surfaces insights for data-informed decisions |
+| **Sponsor** | Champions the business case, secures resources, and removes organizational blockers |
+| **Stakeholders** | Provide functional requirements, approvals, and strategic direction from their domain |
 
-Each project has a named PM and Product Lead. Backlog items and risk mitigations have clear owners throughout delivery.
+Each project has a named PM and Product Lead. Backlog items and risk mitigations have clear owners throughout delivery. Use the [RACI-Lite Matrix Template](./octoacme-raci-template.md) to map role responsibilities for your specific project.
 
 ---
 
@@ -74,6 +78,7 @@ Each project has a named PM and Product Lead. Backlog items and risk mitigations
 | [Release & Deployment](./octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, and rollback procedures |
 | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action item tracking, and process feedback loops |
 | [Roles & Personas](./octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns for each role |
+| [RACI-Lite Matrix Template](./octoacme-raci-template.md) | Reusable template for mapping role responsibilities across project activities |
 
 ---
 

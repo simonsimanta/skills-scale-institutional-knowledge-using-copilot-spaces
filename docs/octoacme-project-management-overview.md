@@ -16,9 +16,15 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager / Tech Lead: owns architecture decisions, technical standards, and engineering capacity.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- UX/UI Designer: designs user experience flows; ensures usability and accessibility.
+- QA/Test Lead: owns test strategy and quality sign-off before each release.
+- Data Analyst: defines KPIs, tracks metrics, and surfaces insights for decisions.
+- Sponsor: champions the business case, secures resources, removes organizational blockers.
+- Stakeholders: provide functional requirements, approvals, and strategic direction.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full descriptions and use the [RACI-Lite Matrix Template](./octoacme-raci-template.md) to map ownership for your project.
 
 ## Key Artifacts
 - Project Charter / One-pager
